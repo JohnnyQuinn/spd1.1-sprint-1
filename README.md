@@ -11,4 +11,4 @@
 ![Cover Page](/mockups/beercrowd_cover_page.png)
 
 ### Search Results Page
-![Search Results Page](/beercrowd search results page.png)
+![Search Results Page](mockups/beercrowd_search_results_page.png)
