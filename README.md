@@ -12,3 +12,6 @@
 
 ### Search Results Page
 ![Search Results Page](mockups/beercrowd_search_results_page.png)
+
+### Review Page 
+![Review page](mockups/Screen Shot 2020-12-05 at 10.43.05 PM.png)
