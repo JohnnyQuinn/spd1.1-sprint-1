@@ -8,10 +8,10 @@
 
 ## Mockups
 ### Cover Page
-![Cover Page](/mockups/beercrowd_cover_page.png)
+![Cover Page](/mockups/cover_page.png)
 
 ### Search Results Page
-![Search Results Page](mockups/beercrowd_search_results_page.png)
+![Search Results Page](mockups/search_results.png)
 
 ### Review Page 
 ![Review page](mockups/review.png)
